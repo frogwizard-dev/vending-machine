@@ -1,5 +1,7 @@
 # VendingMachine
 
+![VendingMachine](screenshots/vendingmachine.png)
+
 A World of Warcraft addon for mages on WoW Forever who hand out food and water.
 When you open a trade window, a small panel appears next to it:
 
@@ -10,6 +12,8 @@ When you open a trade window, a small panel appears next to it:
 
 It always hands over your best conjured items first, fullest stacks first.
 There are no commands or settings: the panel just appears when you trade.
+
+![The VendingMachine panel next to the trade window](screenshots/trade-window.png)
 
 ## Install
 
