@@ -1,0 +1,7 @@
+## Interface: 16001, 120000
+## Title: VendingMachine
+## Notes: Conjure and hand out mage food/water from the trade window
+## Author: Mike
+## Version: 1.0.0
+
+VendingMachine.lua
