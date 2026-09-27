@@ -17,9 +17,12 @@ There are no commands or settings: the panel just appears when you trade.
 
 ## Install
 
-1. Download `VendingMachine.zip` from the
+1. Download the VendingMachine zip from the
    [latest release](https://github.com/frogwizard-dev/vending-machine/releases/latest).
 2. Unzip it into `World of Warcraft\_classic_beta_\Interface\AddOns\`, so that
    you have an `AddOns\VendingMachine` folder containing `VendingMachine.toc`.
+   Windows' Extract All adds an extra folder named after the zip, so if you end
+   up with `AddOns\VendingMachine-1.0.1\VendingMachine`, move the inner
+   `VendingMachine` folder up into `AddOns`.
 3. Start the game (restart it if it was already running) and check that the
    addon is enabled on the character select screen (AddOns button).
